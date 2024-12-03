@@ -1,0 +1,7 @@
+D:\215 d\доломанжи1\bin\Debug\доломанжи1.exe.config
+D:\215 d\доломанжи1\bin\Debug\доломанжи1.exe
+D:\215 d\доломанжи1\bin\Debug\доломанжи1.pdb
+D:\215 d\доломанжи1\obj\Debug\доломанжи1.csproj.AssemblyReference.cache
+D:\215 d\доломанжи1\obj\Debug\доломанжи1.csproj.CoreCompileInputs.cache
+D:\215 d\доломанжи1\obj\Debug\доломанжи1.exe
+D:\215 d\доломанжи1\obj\Debug\доломанжи1.pdb
